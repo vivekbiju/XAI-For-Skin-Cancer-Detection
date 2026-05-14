@@ -1,0 +1,12 @@
+torch
+torchvision
+xgboost
+shap
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+matplotlib
+pillow
+streamlit
+requests
